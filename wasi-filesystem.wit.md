@@ -38,7 +38,7 @@ record info {
     /// Flags associated with a descriptor.
     flags: flags,
 }
-```wit
+```
 
 ## `type`
 ```wit
